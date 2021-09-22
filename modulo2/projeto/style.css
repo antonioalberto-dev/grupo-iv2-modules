@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;700&display=swap');
+* {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.container {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid transparent;
+  border-radius: 15px;
+}
+
+.info {
+  background-color: #0c5e69;
+  color: #fff;
+}
+
+.info img {
+  position: absolute;
+  width: 150px;
+  border: 5px solid rgb(1, 40, 43);
+  border-radius: 40px;
+  right: 0px;
+  float: left;
+  margin-right: 60px;
+  margin-top: 10px;
+}
+
+img:hover {
+  box-shadow: 0 3px 40px 10px rgba(248, 248, 248, 0.288);
+}
+
+p {
+  width: 83%;
+  text-align: justify;
+}
+
+.hobbies {
+  background-color: #ffffff;
+  width: 50%;
+}
+
+ul {
+  list-style: none;
+  display: block;
+}
+
+.redes-sociais {
+  background: rgb(255, 255, 255);
+  text-align: center;
+}
+
+.redes-sociais img {
+  margin-left: 10px;
+}
+
+.mensagem {
+  height: 10em;
+  position: relative;
+}
+
+#mensagem-id {
+  margin: 0;
+  background: rgb(0, 0, 0);
+  color: aqua;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  padding: 30px;
+  border-radius: 60px;
+}

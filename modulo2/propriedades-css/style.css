@@ -1,0 +1,18 @@
+img {
+  width: 250px;
+  height: auto;
+  border-radius: 30px;
+  margin: 10px;
+}
+
+div {
+  background-color: turquoise;
+  width: 100px;
+  height: 200px;
+  border-style: initial;
+  border-radius: 30px;
+  padding: 10px;
+  text-align: center;
+  font-family: 'Fira Code';
+  font-weight: 800;
+}
