@@ -1,0 +1,18 @@
+.box-ext {
+  font-size: 10px;
+  background-color: rgb(70, 9, 141);
+  width: 50vw;
+  height: 50vh;
+  border-radius: 15px;
+  box-shadow: 10px rgb(0, 0, 0);
+}
+
+.box-int {
+  font-size: 2em;
+  background-color: rgba(243, 228, 16, 0.966);
+  height: 2em;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  padding: 20px;
+  font-weight: bold;
+}
